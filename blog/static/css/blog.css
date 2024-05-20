@@ -1,14 +1,16 @@
 .page-header {
     border-color: #0d00c2;
+    background: #dd732c49;
     margin-top: 0;
+    margin-left: 10px;
     margin-bottom: 40px;
-    padding: 20px 20px 20px 40px;
+    padding: 0px 0px 15px 10px;
 }
 
 body{
     padding-left: 40px;
-    color: rgb(133, 81, 32);
-    background: #f7b58d;
+    color: rgb(172, 114, 64);
+    background: #ffffff;
 }
 
 .page-header h1,
@@ -25,7 +27,7 @@ h1,h2,h3,h4{
 }
 
 .date{
-    color: #865b5b;
+    color: #0f2d2e;
 }
 
 .save{
